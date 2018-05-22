@@ -17,8 +17,8 @@
 	<string>enterprise</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>com.project.airmall</key>
-		<string>disairmall</string>
+		<key>com.cua.cuaapp</key>
+		<string>cuaapp</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>iPhone Distribution</string>
